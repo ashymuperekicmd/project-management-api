@@ -1,0 +1,30 @@
+{
+  "name": "project-management-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashymuperekicmd/project-management-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashymuperekicmd/project-management-api/issues"
+  },
+  "homepage": "https://github.com/ashymuperekicmd/project-management-api#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.13.0",
+    "validator": "^13.15.0"
+  }
+}
